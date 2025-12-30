@@ -21,6 +21,6 @@ KREAM 서비스를 간단히 모방하여
 - **Frontend**: (추후 추가 예정)
 - **Backend**: Java (Spring 기반 예정)
 - **Crawling**: Python (Selenium, BeautifulSoup)
-- **Database**: SQLite
-- **Version Control**: Git & GitHub
+- **Database**: SQLite (redis 추가 예정)
+- **Version Control**: Git & GitHub / (Jenkins 추후 예정)
 
